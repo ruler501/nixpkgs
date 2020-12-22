@@ -38,6 +38,7 @@ brennanfee/vim-gui-position
 bronson/vim-trailing-whitespace
 brooth/far.vim
 buoto/gotests-vim
+camspiers/animate.vim
 camspiers/lens.vim
 carlitux/deoplete-ternjs
 ccarpita/rtorrent-syntax-file
@@ -58,6 +59,7 @@ christoomey/vim-sort-motion
 christoomey/vim-tmux-navigator
 chuling/ci_dark
 ckarnell/antonys-macro-repeater
+clangd/coc-clangd
 cloudhead/neovim-fuzzy
 CoatiSoftware/vim-sourcetrail
 cocopon/iceberg.vim
@@ -466,6 +468,7 @@ roxma/vim-tmux-clipboard
 RRethy/vim-hexokinase
 RRethy/vim-illuminate
 rust-lang/rust.vim
+ryanoasis/powerline-extra-symbols
 ryanoasis/vim-devicons
 ryvnf/readline.vim
 sakhnik/nvim-gdb
@@ -519,6 +522,7 @@ ternjs/tern_for_vim
 terryma/vim-expand-region
 terryma/vim-multiple-cursors
 tex/vimpreviewpandoc
+thaerkh/vim-indentguides
 theHamsta/nvim-dap-virtual-text
 thinca/vim-ft-diff_fold
 thinca/vim-prettyprint
@@ -531,6 +535,7 @@ thosakwe/vim-flutter
 tiagofumo/vim-nerdtree-syntax-highlight
 tikhomirov/vim-glsl
 tjdevries/nlua.nvim
+tjvr/vim-nearley
 tmhedberg/SimpylFold
 tmsvg/pear-tree
 tmux-plugins/vim-tmux
@@ -637,12 +642,15 @@ w0ng/vim-hybrid
 wakatime/vim-wakatime
 wannesm/wmgraphviz.vim
 weirongxu/coc-explorer
+wellle/context.vim
 wellle/targets.vim
 wellle/tmux-complete.vim
 whonore/Coqtail
 will133/vim-dirdiff
 wincent/command-t
 wincent/ferret
+wincent/loupe
+wincent/vcs-jump
 wlangstroth/vim-racket
 wsdjeg/vim-fetch
 xavierd/clang_complete
